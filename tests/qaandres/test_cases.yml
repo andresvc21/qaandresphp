@@ -41,3 +41,324 @@
   - utterance: member
   - utterance: july 1 1975
   - utterance: '[HANG UP]'
+- description: Test case for adsdqw.json
+  golden_dialog: adsdqw.json
+  id: 9ceabd99-63f7-4db0-9661-bbb536a0bb02
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: put me with an agent asap
+  - utterance: agent
+  - utterance: ''
+- description: Test case for asdasad.json
+  golden_dialog: asdasad.json
+  id: dece2e01-3f2b-4a94-ae9f-5e78fb0d0b2c
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: first of july of 75
+  - utterance: first of july of 1975
+  - utterance: '[HANG UP]'
+- description: Test case for asdasd.json
+  golden_dialog: asdasd.json
+  id: 69e10a83-2db9-47c6-8ddf-b61b5d8cb2f0
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: january 1 2026
+  - utterance: '[HANG UP]'
+- description: Test case for asdqwd.json
+  golden_dialog: asdqwd.json
+  id: 7b698a9b-3e9f-4277-a2b4-5e0920a63422
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: july 1 1975
+  - utterance: andres giraldo
+  - utterance: 'yes'
+  - utterance: damon alonso
+  - utterance: 'yes'
+  - utterance: '987654321'
+  - utterance: 'no'
+- description: Test case for dialog_aae.json
+  golden_dialog: dialog_aae.json
+  id: eea675f0-c418-4757-922b-5a81d20e6b07
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: january 1 2026
+  - utterance: '[HANG UP]'
+- description: Test case for dialog_aaf.json
+  golden_dialog: dialog_aaf.json
+  id: 718c4b20-2f3e-4b27-8355-9528b726d2cc
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: january 1 2026
+  - utterance: '[HANG UP]'
+- description: Test case for dialog_aag.json
+  golden_dialog: dialog_aag.json
+  id: 129fb718-b789-4273-ac12-d207c292176e
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: ice cream [NO MATCH]
+  - utterance: ''
+- description: Test case for dialog_aah.json
+  golden_dialog: dialog_aah.json
+  id: d4e23530-df06-42e0-a6c5-e06ddb0359ac
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[NO INPUT]'
+  - utterance: '[HANG UP]'
+- description: Test case for dialog_aai.json
+  golden_dialog: dialog_aai.json
+  id: 00ae3c29-7558-4d02-b947-bc5ce8fcfb5a
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: '[HANG UP]'
+- description: Test case for dialog_aaj.json
+  golden_dialog: dialog_aaj.json
+  id: d0ad402f-0e10-4e69-b550-7b97456dbbd5
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: neither
+  - utterance: '[HANG UP]'
+- description: Test case for dialog_aak.json
+  golden_dialog: dialog_aak.json
+  id: 86f3b127-61e9-4d9c-8936-36f5c76b6725
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[NO INPUT]'
+  - utterance: '[HANG UP]'
+- description: Test case for dialog_aal.json
+  golden_dialog: dialog_aal.json
+  id: edeb606e-ea35-4124-af50-5a215216897c
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: I am a participating provider
+  - utterance: '[HANG UP]'
+- description: Test case for dialog_aam.json
+  golden_dialog: dialog_aam.json
+  id: 7d5282f7-9b46-4fa0-842c-084632a5788b
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: I am not related. [NO MATCH]
+  - utterance: '[NO INPUT]'
+  - utterance: '[HANG UP]'
+- description: Test case for dialog_aan.json
+  golden_dialog: dialog_aan.json
+  id: 94c2f79e-7aa6-48f8-bae0-788273bc6d8a
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+- description: Test case for dialog_aao.json
+  golden_dialog: dialog_aao.json
+  id: 61161186-b9a8-4abf-8519-8f9bdcfd1dc9
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: banana [NO MATCH]
+  - utterance: banana [NO MATCH]
+  - utterance: banana [NO MATCH]
+  - utterance: ''
+- description: Test case for dialog_aap.json
+  golden_dialog: dialog_aap.json
+  id: 92895372-ad4f-4a25-a010-c94088edffaa
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[NO INPUT]'
+  - utterance: banana [NO MATCH]
+  - utterance: banana [NO MATCH]
+  - utterance: ''
+- description: Test case for dialog_aaq.json
+  golden_dialog: dialog_aaq.json
+  id: 6a3c3ad0-f14b-400e-a73b-ebe47664f7d5
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for dialog_aar.json
+  golden_dialog: dialog_aar.json
+  id: 163f9abd-1c08-4027-8499-2250b7f6f549
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: '[HANG UP]'
+- description: Test case for dialog_aas.json
+  golden_dialog: dialog_aas.json
+  id: b23bd50e-a82f-4474-bc42-798c2deb8d8d
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: i'm a provider
+  - utterance: '[HANG UP]'
+- description: Test case for dialog_aat.json
+  golden_dialog: dialog_aat.json
+  id: 93838374-6a2f-49bc-b512-aa8848b9d9c6
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: '[HANG UP]'
+- description: Test case for dialog_aau.json
+  golden_dialog: dialog_aau.json
+  id: 5e4cb581-f883-40f4-8e61-fd7aab214e09
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: neither
+  - utterance: '[HANG UP]'
+- description: Test case for dialog_aaw.json
+  golden_dialog: dialog_aaw.json
+  id: fd7ec7c8-e1ec-4a5b-8e0e-fd6b220d3066
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+- description: Test case for dialog_aax.json
+  golden_dialog: dialog_aax.json
+  id: 1c97e474-4f3b-4199-89ab-d8170ef472e9
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: banana [NO MATCH]
+  - utterance: banana [NO MATCH]
+  - utterance: banana [NO MATCH]
+  - utterance: ''
+- description: Test case for dialog_aay.json
+  golden_dialog: dialog_aay.json
+  id: 33ebbca3-4769-49ff-8a3f-6234d267c762
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: '[NO INPUT]'
+  - utterance: banana [NO MATCH]
+  - utterance: banana [NO MATCH]
+  - utterance: ''
+- description: Test case for dialog_aaz.json
+  golden_dialog: dialog_aaz.json
+  id: c29ba84a-1e1b-430a-ac2a-177834b6c09d
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for edfdf.json
+  golden_dialog: edfdf.json
+  id: aceed192-632f-4bef-b750-69c0cfc48a3f
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: '[HANG UP]'
+- description: Test case for qwdeasd.json
+  golden_dialog: qwdeasd.json
+  id: 7422afcc-b1ac-4b3c-aac3-90a4ef28b0b6
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: july 1 1975
+  - utterance: '[NO INPUT]'
+  - utterance: banana
+  - utterance: banana [NO MATCH]
+  - utterance: banana [NO MATCH]
+  - utterance: ''
+- description: Test case for qwdesa.json
+  golden_dialog: qwdesa.json
+  id: 3341719b-b024-4af9-829d-b762767475cc
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: agent
+  - utterance: put my with an agent
+  - utterance: ''
+- description: Test case for qwdew.json
+  golden_dialog: qwdew.json
+  id: ae184e0c-5ebd-4ab0-b7e6-020843bad9fa
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: '[HANG UP]'
