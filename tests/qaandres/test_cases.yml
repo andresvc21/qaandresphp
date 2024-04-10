@@ -1,0 +1,21 @@
+---
+- description: Test case for dialog_aaa.json
+  golden_dialog: dialog_aaa.json
+  id: 8b307a0c-c793-4f6c-9af1-4a0d4231e7ae
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: '[HANG UP]'
+- description: Test case for dialog_aab.json
+  golden_dialog: dialog_aab.json
+  id: d34b0c6d-7ae2-4ad3-94f6-6c4bc17746a2
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: neither
+  - utterance: '[HANG UP]'
