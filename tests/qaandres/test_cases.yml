@@ -1300,3 +1300,694 @@
   - utterance: agent
   - utterance: agent
   - utterance: ''
+- description: Test case for art.json
+  golden_dialog: art.json
+  id: 55bd266e-cd49-4fcb-8c44-e8a049eb5d84
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: memeber [NO MATCH]
+  - utterance: member
+  - utterance: 8/19/1928
+  - utterance: anne foster
+  - utterance: 'yes'
+  - utterance: '10013519500'
+  - utterance: eligible
+  - utterance: ''
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: order card
+  - utterance: agent
+  - utterance: agent
+  - utterance: ''
+- description: Test case for asdasdasdq.json
+  golden_dialog: asdasdasdq.json
+  id: 5263b183-038e-4702-873e-1f07676a0094
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: 11/11/1983
+  - utterance: amanda montoya
+  - utterance: yeah
+  - utterance: '3622'
+  - utterance: eligible
+  - utterance: ''
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: order card
+  - utterance: 'yes'
+  - utterance: agent
+  - utterance: '[NO INPUT]'
+  - utterance: asodaskdmas [NO MATCH]
+  - utterance: '[HANG UP]'
+- description: Test case for ass.json
+  golden_dialog: ass.json
+  id: 7f8ab9d8-0d7c-44d1-b528-d9ee21b05d86
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: 7/21/1994
+  - utterance: shane abbott
+  - utterance: 'yes'
+  - utterance: '262998718'
+  - utterance: ''
+- description: Test case for asw.json
+  golden_dialog: asw.json
+  id: b8a2796f-b72e-4aa2-ae44-e33cf42ef0cf
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: 10/15/1955
+  - utterance: gary collins
+  - utterance: 'yes'
+  - utterance: gary collins
+  - utterance: '11357060100'
+- description: Test case for ertyhujk.json
+  golden_dialog: ertyhujk.json
+  id: 7ba5110f-4877-4ba4-a3c6-bf77e38e5377
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: 9/20/1938
+  - utterance: banana
+  - utterance: ''
+- description: Test case for fadfas.json
+  golden_dialog: fadfas.json
+  id: 27b87dac-b6b9-44c7-8800-143c64a3a12c
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: 10/15/1995
+  - utterance: gary collins
+  - utterance: 'yes'
+  - utterance: gary collins
+  - utterance: '11357060100'
+- description: Test case for fasdasd.json
+  golden_dialog: fasdasd.json
+  id: b63bd84e-10d1-4c25-854e-a74a00d3bbb6
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: 7/21/1994
+  - utterance: shane abbott
+  - utterance: 'yes'
+  - utterance: '262998718'
+  - utterance: '9718'
+  - utterance: eligibility
+  - utterance: ''
+  - utterance: ''
+  - utterance: 'no'
+  - utterance: 'yes'
+  - utterance: order card
+  - utterance: 'no'
+  - utterance: 'yes'
+  - utterance: '[HANG UP]'
+- description: Test case for fasdasda.json
+  golden_dialog: fasdasda.json
+  id: 918d3fc9-94bd-4666-bf41-f2c0246bfc53
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: 7/21/1994
+  - utterance: shane abbott
+  - utterance: 'yes'
+  - utterance: '262998718'
+  - utterance: '9718'
+  - utterance: order card
+  - utterance: ''
+  - utterance: 'no'
+  - utterance: 'yes'
+  - utterance: i'm eligible?
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: 07/01/2021
+  - utterance: ''
+  - utterance: repeat
+  - utterance: ''
+  - utterance: basnassadsad [NO MATCH]
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: do i'm eligible
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: agent
+  - utterance: agent
+  - utterance: ''
+- description: Test case for fdasfsad.json
+  golden_dialog: fdasfsad.json
+  id: 8d564a19-f938-4c4b-a242-9e3b3697b670
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+- description: Test case for iuytr.json
+  golden_dialog: iuytr.json
+  id: c9fcfc99-c8ce-4ca7-9013-ea0b4f7cf165
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: 7/21/1994
+  - utterance: shane abbott
+  - utterance: 'yes'
+  - utterance: '9718'
+  - utterance: eligible
+  - utterance: ''
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: card
+  - utterance: 'yes'
+  - utterance: ''
+  - utterance: whateeber
+- description: Test case for jhgfdx.json
+  golden_dialog: jhgfdx.json
+  id: 26cc74bd-2245-4369-8ea4-0b01d87e97f1
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: 2/5/1980
+  - utterance: alber adams
+  - utterance: 'yes'
+  - utterance: albert adams
+  - utterance: 'yes'
+  - utterance: '1077'
+  - utterance: eligible
+  - utterance: ''
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: order card
+  - utterance: banana [NO MATCH]
+  - utterance: '[NO INPUT]'
+  - utterance: basnsdaasd [NO MATCH]
+  - utterance: ''
+- description: Test case for lkjhgf.json
+  golden_dialog: lkjhgf.json
+  id: 8fa1577d-d98a-4671-ae8f-cf04c5fef1f0
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: 3/10/1968
+  - utterance: patricia miller
+  - utterance: 'yes'
+  - utterance: agent
+  - utterance: agent
+  - utterance: ''
+- description: Test case for poikjuhgfd.json
+  golden_dialog: poikjuhgfd.json
+  id: 2f351f0d-9345-48ed-9507-652703a6d463
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: july 1st 1975
+  - utterance: damon alonso
+  - utterance: yse [NO MATCH]
+  - utterance: 'yes'
+  - utterance: '123456'
+  - utterance: ''
+- description: Test case for qweasdad.json
+  golden_dialog: qweasdad.json
+  id: 9dbea3f9-ca99-4e27-87e0-5f840b566e32
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: 10/19/1987
+  - utterance: jessica jacobo
+  - utterance: 'yes'
+  - utterance: '7636'
+  - utterance: eligible
+  - utterance: ''
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: order card
+  - utterance: banana [NO MATCH]
+  - utterance: banana [NO MATCH]
+  - utterance: 'yes'
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+- description: Test case for qwedasd.json
+  golden_dialog: qwedasd.json
+  id: bcf91a7f-f233-4817-9315-35fd06c5dfbf
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: 10/19/1987
+  - utterance: jessica jacobo
+  - utterance: 'yes'
+  - utterance: jessica jacobo 113487278-00
+  - utterance: 113487278-00 [NO MATCH]
+  - utterance: 'yes'
+  - utterance: '11348727800'
+  - utterance: '7637'
+- description: Test case for qweqwsas.json
+  golden_dialog: qweqwsas.json
+  id: 9e60b50c-cfaf-4215-b028-ce8c0a84a64a
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: 9/20/1938
+  - utterance: carl gandy
+  - utterance: 'yes'
+  - utterance: '0011575500'
+  - utterance: 'yes'
+  - utterance: 9/20/1938
+  - utterance: carl gandy
+  - utterance: 'yes'
+  - utterance: m0011575500
+- description: Test case for qwsa.json
+  golden_dialog: qwsa.json
+  id: 06d9bb3e-c2f2-4b40-bfb9-53c21e8d5c40
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: july 1 1975
+  - utterance: damon alonso
+  - utterance: 'yes'
+  - utterance: '[HANG UP]'
+- description: Test case for qwsad.json
+  golden_dialog: qwsad.json
+  id: cd764459-69ec-46ab-b268-08a5a5ead51f
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: july 1 1975
+  - utterance: heidi johnson
+  - utterance: 'yes'
+  - utterance: '9876543210'
+  - utterance: '[HANG UP]'
+- description: Test case for radsdada.json
+  golden_dialog: radsdada.json
+  id: 045fd12c-59df-4fee-8e98-22d5e23a2121
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: 7/21/1994
+  - utterance: shane abbott
+  - utterance: 'yes'
+  - utterance: '262998718'
+  - utterance: '9718'
+  - utterance: check my eligibilty
+  - utterance: check my eligibillity
+  - utterance: ''
+- description: Test case for rasdsda.json
+  golden_dialog: rasdsda.json
+  id: d6219e03-0a31-4c7c-98f4-fa44563261a8
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: 7/21/1994
+  - utterance: shane abbott
+  - utterance: 'yes'
+  - utterance: '262998718'
+  - utterance: '9718'
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+- description: Test case for reasdasdad.json
+  golden_dialog: reasdasdad.json
+  id: 7a5abca7-cf31-4535-8932-70027f7dc282
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: 7/21/1994
+  - utterance: shane abbott
+  - utterance: 'yes'
+  - utterance: '262998718'
+  - utterance: '9718'
+  - utterance: eligble? [NO MATCH]
+  - utterance: i'm eligible?
+  - utterance: ''
+  - utterance: ''
+  - utterance: agent
+  - utterance: agent
+  - utterance: ''
+- description: Test case for rtsertsd.json
+  golden_dialog: rtsertsd.json
+  id: 447cc730-c745-4b12-8481-70903e7319c4
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+- description: Test case for rws.json
+  golden_dialog: rws.json
+  id: 4aebc4f7-9f05-4c22-9038-df8f55a8464c
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: 10/15/1955
+  - utterance: gary collins
+  - utterance: 11357060100 [NO MATCH]
+  - utterance: 'yes'
+  - utterance: gary collins
+  - utterance: '11357060100'
+- description: Test case for sdaasd.json
+  golden_dialog: sdaasd.json
+  id: 69797bf0-4835-49c2-8d07-a86d38afd266
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: memeber [NO MATCH]
+  - utterance: member
+  - utterance: july 1 1975
+  - utterance: damon alonso
+  - utterance: 'yes'
+  - utterance: '11292538200'
+  - utterance: look up a claim
+- description: Test case for trsadfas.json
+  golden_dialog: trsadfas.json
+  id: c7cfa9c5-58ae-404b-8963-5784d266092e
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: 11/28/1938
+  - utterance: alice miller
+  - utterance: 'yes'
+  - utterance: '10021111300'
+  - utterance: eligible
+  - utterance: ''
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: order card
+  - utterance: 'yes'
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: eligible
+  - utterance: ''
+  - utterance: order a card
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+- description: Test case for trsdfasdas.json
+  golden_dialog: trsdfasdas.json
+  id: 49047662-e810-4091-b1a2-56fee7dbe7d5
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: 7/21/1994
+  - utterance: shane abbott
+  - utterance: 'yes'
+  - utterance: '262998718'
+  - utterance: '9718'
+  - utterance: elibility
+- description: Test case for trsdfdsf.json
+  golden_dialog: trsdfdsf.json
+  id: 10eb3e09-ee22-4e36-839d-d3467f878323
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: 7/21/1994
+- description: Test case for trstdfsd.json
+  golden_dialog: trstdfsd.json
+  id: 1e9b03bb-c60e-4125-a796-bc3c77fa585f
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: 7/21/1994
+  - utterance: shane abbott
+  - utterance: 'yes'
+  - utterance: '262998718'
+  - utterance: '9718'
+  - utterance: elibility
+- description: Test case for trwsfsda.json
+  golden_dialog: trwsfsda.json
+  id: ca3ca28c-df9c-4a3d-819e-7e269aa81eb5
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: 7/21/1994
+  - utterance: shane abbott
+  - utterance: 'yes'
+  - utterance: '262998718'
+  - utterance: '9718'
+  - utterance: eligibility
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[NO INPUT]'
+  - utterance: correct
+  - utterance: 09/02/2021
+  - utterance: ''
+  - utterance: repeat
+  - utterance: ''
+  - utterance: '[noinput[ [NO MATCH]'
+  - utterance: ''
+  - utterance: eligibility
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: 09/02/2021
+  - utterance: ''
+  - utterance: banandass [NO MATCH]
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: eligibility
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: 09/02/2021
+  - utterance: ''
+  - utterance: new member
+  - utterance: 09 jun 1990
+  - utterance: andres villegas
+  - utterance: 'no'
+  - utterance: '[HANG UP]'
+- description: Test case for tsdfads.json
+  golden_dialog: tsdfads.json
+  id: 503bb7e4-4c83-443d-be5c-623b87c9778c
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: july 1 1975
+  - utterance: damon alonso
+  - utterance: 'yes'
+  - utterance: '11292538200'
+  - utterance: '[NO INPUT]'
+  - utterance: asdlsa daklsdpa [NO MATCH]
+  - utterance: ''
+- description: Test case for tsdfasdssd.json
+  golden_dialog: tsdfasdssd.json
+  id: 397ca945-83f9-4c7d-92b8-d09f78b6e659
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: 5/17/1971
+  - utterance: susn choi
+  - utterance: 'yes'
+  - utterance: susan choi-
+  - utterance: 'yes'
+  - utterance: '10010201500'
+  - utterance: elgiible [NO MATCH]
+  - utterance: eligible
+  - utterance: ''
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: order a new card
+  - utterance: nop [NO MATCH]
+  - utterance: nope
+  - utterance: ''
+- description: Test case for uyfgfhfg.json
+  golden_dialog: uyfgfhfg.json
+  id: 1ba09dd8-d51b-49c7-a4bb-74ca3904c752
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: july 1 1975
+  - utterance: damon alonso
+  - utterance: 'yes'
+  - utterance: '11292538200'
+  - utterance: eligible
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for uyfgfsdgd.json
+  golden_dialog: uyfgfsdgd.json
+  id: 979648ba-c136-4f4b-ac7c-df689abe13d6
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: 11/28/1974
+  - utterance: katherine mandell
+  - utterance: 'yes'
+  - utterance: '7108'
+  - utterance: eligible
+  - utterance: ''
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: order card
+  - utterance: 'yes'
+  - utterance: myself
+  - utterance: ''
+  - utterance: eligible
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: order card
+  - utterance: 'yes'
+  - utterance: everyone
+  - utterance: ''
+  - utterance: 'yes'
+  - utterance: order card
+  - utterance: 'yes'
+  - utterance: basnasdasa [NO MATCH]
+  - utterance: basnsandas [NO MATCH]
+  - utterance: cancel [NO MATCH]
+  - utterance: ''
+- description: Test case for weqads.json
+  golden_dialog: weqads.json
+  id: c9bbd9f9-2b50-4bc6-957e-d6df5f3a08db
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: 7/21/1994
+  - utterance: shane abbott
+  - utterance: 'yes'
+  - utterance: '11349276100'
+  - utterance: 'yes'
+  - utterance: '11349276100'
+  - utterance: '9718'
+- description: Test case for wertgyhu.json
+  golden_dialog: wertgyhu.json
+  id: 2e801ef5-5c05-4c0e-b680-e078d074bf92
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: 1/10/1970
+  - utterance: jonathon royer
+  - utterance: 'yes'
+  - utterance: '0673'
+- description: Test case for ytdsf.json
+  golden_dialog: ytdsf.json
+  id: 28cbf450-3949-424f-a88d-aa2b4dd5cc3e
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: 09/08/1936
+  - utterance: charles t brown
+  - utterance: 'yes'
+  - utterance: charles brown
+  - utterance: '1469'
+- description: Test case for ytrtsd.json
+  golden_dialog: ytrtsd.json
+  id: c0225acc-d815-426e-9ebd-2c7a5f2843aa
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: 11/2/1955
+  - utterance: farida mahmood
+  - utterance: 'yes'
+  - utterance: '10011344200'
+- description: Test case for ytsdfs.json
+  golden_dialog: ytsdfs.json
+  id: 634c2572-2aa8-45c2-b87d-979a44eeb3e7
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: 9/20/1938
+  - utterance: carl gandy
+  - utterance: 'yes'
+  - utterance: m0011575500
