@@ -19,3 +19,25 @@
   - utterance: ''
   - utterance: neither
   - utterance: '[HANG UP]'
+- description: Test case for dialog_aac.json
+  golden_dialog: dialog_aac.json
+  id: 771e6b0c-55b0-480c-8ea0-bcefca459cff
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: ice cream [NO MATCH]
+  - utterance: ice cream [NO MATCH]
+  - utterance: '[HANG UP]'
+- description: Test case for dialog_aad.json
+  golden_dialog: dialog_aad.json
+  id: 5dcec910-2bad-472a-a3c4-b1a33487acff
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: july 1 1975
+  - utterance: '[HANG UP]'
